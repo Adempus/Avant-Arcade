@@ -1,0 +1,99 @@
+body {
+    background-color: #363636;
+    color: #efedde;
+    font-family: 'Titillium Web', sans-serif;
+    height: 1600px;
+    margin: 0 auto;
+}
+h4 {
+    color: tomato;
+}
+#slide1 {
+    background-image: url("C:\Users\Crimsix\Documents\Portfolio\Avant Arcade Site (bootstrap revision)\Images\slides\concept_art.jpg");
+}
+#headerContainer {
+    margin: inherit;
+    height: 155px;
+    border-bottom: 1px solid #efedde;
+    position: inherit;
+    width: 1000px;
+}
+p {
+    margin: inherit;
+    font-weight:500;
+}
+a {
+    text-decoration: none;
+}
+
+    a:link {
+        color: #efedde;
+        list-style-type: none;
+    }
+
+    a:visited {
+        color: #efedde;
+    }
+
+    a:hover {
+        color: #d05539;
+        transition-duration: .3s;
+        text-decoration: none;
+}
+    
+#details .col-md-3 {
+    margin-left: -1px;
+}
+
+#imageRow {
+}
+#iconRow {
+}
+#imgPlaceholder1 .item {
+    background-color: #282828;
+    height: 270px;
+    margin: 0 auto;
+    position: inherit;
+    top: 0px;
+    width: inherit;
+    height: 320px
+}
+#imgPlaceholder2, #imgPlaceholder3{
+    background-color: #282828;
+    height: 350px;
+    margin-left: 7%;
+    margin-right: 7%;
+    position: relative;
+    top: 50px;
+    width: 460px;
+    -webkit-box-shadow: inset 4px -3px 24px -4px rgba(27,27,27,1);
+    -moz-box-shadow: inset 4px -3px 24px -4px rgba(27,27,27,1);
+    box-shadow: inset 4px -3px 24px -4px rgba(27,27,27,1);
+}
+#imgPlaceholder4, #imgPlaceholder5, #imgPlaceholder6, #imgPlaceholder7 {
+    height: 190px;
+    width: 190px;
+    background-color: #282828;
+    margin-right: -2%;
+    border-bottom: 1px solid #efedde;
+    -webkit-box-shadow: inset 4px -11px 24px -4px rgba(27,27,27,1);
+    -moz-box-shadow: inset 4px -11px 24px -4px rgba(27,27,27,1);
+    box-shadow: inset 4px -11px 24px -4px rgba(27,27,27,1);
+}
+#descriptionWrap {
+    position: relative;
+    text-align: center;
+    padding: 0px;
+    top: 45px;
+}
+.carousel {
+    margin: 0 auto;
+    width: 1010px;
+    margin-top: 4.5%;
+    margin-bottom: -6%;
+}
+
+/* Projects page */
+
+/* Company Page */
+
