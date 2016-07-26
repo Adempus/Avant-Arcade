@@ -1,2 +1,2 @@
-# Avant-Arcade
-Site project for prospective game company
+# Avant Arcade
+Site concept for prospective game company
